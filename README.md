@@ -7,7 +7,7 @@
 <a href="https://sahil242a.github.io/"><img src="https://img.shields.io/badge/portfolio-take%20a%20look-059669?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sahil-gupta-397904273/"><img src="https://img.shields.io/badge/linkedin-let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:gsahil1234567@gmail.com"><img src="https://img.shields.io/badge/email-open%20to%20chat-ec4899?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://huggingface.co/Sahil242a"><img src="https://img.shields.io/badge/hugging%20face-see%20my%20work-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face" /></a>
+
 
 <br /><br />
 
